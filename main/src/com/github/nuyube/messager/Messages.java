@@ -1,4 +1,4 @@
-package com.github.nuyube;
+package com.github.nuyube.messager;
 
 import java.io.File;
 import java.io.FileNotFoundException;
